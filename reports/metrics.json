@@ -1,0 +1,11 @@
+{
+    "task_type": "regression",
+    "best_model": "RandomForest",
+    "mae": 31921.603812984496,
+    "r2": 0.8160084035884216,
+    "cv_results": {
+        "LinearRegression": 0.6475421158367056,
+        "RandomForest": 0.816291060084523,
+        "GradientBoosting": 0.7217209645871476
+    }
+}
